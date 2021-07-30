@@ -1,0 +1,35 @@
+div{
+    color: blue; text-align: center; border: bisque;
+}
+
+p{
+    color: brown;
+ 
+}
+
+h1{
+    color: coral;
+    text-align: center;
+}
+
+h2{
+    color: rgb(37, 175, 48);
+}
+
+h3{
+    color: rgb(27, 8, 58);
+}
+h4{
+    color: rgb(95, 23, 57);
+}
+h5{
+    color: red;
+}
+h6{
+    color: rgb(12, 11, 10);
+}
+
+h7{
+    color: chartreuse;
+}
+
