@@ -1,0 +1,27 @@
+
+div{
+    margin: 0px;
+    float:center;
+    border-radius: 20px;
+    font-size: 30px;
+    
+    text-align:center;
+
+}
+
+p{
+    text-align:center;
+}
+
+form{
+    
+    border: solid rgb(10, 9, 9) 4px;
+    margin: 0px;
+    widows: 76px;;
+    float:center;
+    border-radius: 35px;
+    font-size: 30px;
+    background-color:rgb(136, 149, 221);
+    text-align: left;
+
+}
