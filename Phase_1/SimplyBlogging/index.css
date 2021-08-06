@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px rgb(99, 155, 99); 
+}
+.logo{
+    height: 48px;
+    padding: 2px 5px;
+}
+.icon-bar{
+    background: rgb(124, 84, 36);
+}
+li a{
+    color: rgb(7, 119, 119);
+    display: inline;
+}
+.big-text{
+    font-size: 52px;
+    margin:20px 0;
+    color: hsla(hue, saturation, lightness, alpha);
+}
+#d1{
+    float:right;
+}
+.title{
+    text-align: center;
+}
+
+.image{
+    height: 250px; 
+    width: 250px;
+}
+
+.border{
+    border-style: solid;
+  border-width: medium;
+}
