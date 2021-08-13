@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AS KICK STORE</title>
+    <link rel="icon" href="https://i.pinimg.com/originals/bf/12/2b/bf122bfc08e7b4990fcfc04e7ede91b7.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header.css">
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+   
+    <nav class="navbar navbar-light bg-primary justify-content-center">
+        <i style="font-size: 40px;"class="fas fa-shipping-fast"> &nbsp;
+                
+        </i>
+        <strong style="font-size: 60px;">AS KICK STORE</strong>
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link link-light active" href="index.html">HOME</a>
+            </li>
+            
+            <li class="nav-item">
+                <a id="navCartLink" class="nav-link link-light active" href="cart.html">Cart</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="container">
+
+        <div class="pageTitle">
+            <h1>Wear With Us</h1>
+            <h4>Checkout our ig page @askickstore for the Discount</h4>
+
+            <div class="productCatelog">
+
+
+                    <div class="col">
+                        <div class="productListing" id="102">
+                            <img id="pic_102" class="productImage"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhCImGe3noEltuXq6poy8q78vNaCDY2GLEw&usqp=CAU" alt="">
+                            <p id="title_102" class="productTitle">Greatful dead BEAR Dunk Low</p>
+                            <p id="price_102">$3500</p>
+                            <input type="button" class="btn btn-primary" value="Add to Cart" onclick="product_102()">                            
+                        </div>
+                        
+
+                    
+                    <div class="col">
+                        <div class="productListing" id="106">
+                            <img id="pic_106" class="productImage"src="https://www.syracuse.com/resizer/rvXtcFgnWdjp4q-aVoYkZ9WWZFs=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OC3VRMPZ2JE3HHFGCCCUUPYFQM.png" alt="">
+                            <p id="title_106" class="productTitle">DUNK HIGH SYRACUSE</p>
+                            <p id="price_106">$190</p>
+                            <input type="button" class="btn btn-primary" value="Add to Cart" onclick="product_106()">                            
+                        </div>  
+                        
+
+                <div class="row">
+                    <div class="col">
+                        <div class="productListing" id="107">
+                            <img id="pic_107" class="productImage"src="https://images.dsw.com/is/image/DSWShoes/475371_100_ss_01?$colpg$" alt="">
+                            <p id="title_107" class="productTitle">AF1 Womens</p>
+                            <p id="price_107">$675</p>
+                            <input type="button" class="btn btn-primary" value="Add to Cart" onclick="product_107()">                            
+                        </div>  
+
+                    <div class="col">
+                        <div class="productListing" id="109">
+                            <img id="pic_109" class="productImage"src="data:image/jpeg;base64,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" alt="">
+                            <p id="title_109" class="productTitle">SB DUNK LOW PARA</p>
+                            <p id="price_109">$456</p>
+                            <input type="button" class="btn btn-primary" value="Add to Cart" onclick="product_109()">                            
+                        </div>  
+                    
+</body>
+</html>
