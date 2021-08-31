@@ -12,7 +12,7 @@ let email = "";
 
 readline.question("Enter the name of the person  ", (name) => {
   firstName = name;
-  debugger;
+ 
   readline.question("Enter the lastName of the person   ", (lastName) => {
     lastName = lastName
 
@@ -24,7 +24,7 @@ readline.question("Enter the name of the person  ", (name) => {
          if(!data) data = []
 
          var Time =  new Date().toLocaleString();
-  debugger;
+  
         data.push({
           firstName: firstName,
           lastName: lastName,
