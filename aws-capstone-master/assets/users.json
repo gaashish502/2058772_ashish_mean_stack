@@ -1,0 +1,130 @@
+[
+
+{
+  "_id" :"123",
+  "isSeller" : false,
+  "created" : "2021-04-26T18:28:09.690Z",
+  "name" : "jay",
+  "email" : "jaypatel123@gmail.com",
+  "password" : "$2a$10$3.Gux5bEYKhEizoiDsp95uc.KgCAVKSS7THxsSubFnz9YCl6zcCO.",
+  "picture" : "https://gravatar.com/avatar/8e4f5b74bd187c5966f4939c5e74cc73?s200&d=retro",
+  "__v" : 0,
+  "address" : {
+          "addr1" : "66 abc st",
+          "addr2" : "ffa",
+          "city" : "edison",
+          "country" : "USA",
+          "postalCode" : "08820",
+          "state" : "nj"
+  }
+},
+{
+  "_id" : "608837c9ca3a641e48e657c9",
+  "isSeller" : false,
+  "created" : "2021-04-27T16:11:53.782Z",
+  "name" : "Test 1",
+  "email" : "test1@gmail.com",
+  "password" : "$2a$10$RdZTB5f9QPpuUbduibnST.7WtQYQmHpycwdOg7ZPQHghYhOr7bsZG",
+  "picture" : "https://gravatar.com/avatar/245cf079454dc9a3374a7c076de247cc?s200&d=retro",
+  "__v" : 0,
+  "isEmp" : true
+},
+{
+  "_id" : "60883bbfca3a641e48e657ca",
+  "isSeller" : false,
+  "created" : "2021-04-27T16:28:47.657Z",
+  "name" : "Test2",
+  "email" : "test2@gmail.com",
+  "password" : "$2a$10$nyu6jQ6vH6XsvOhyk5ukDOp/ahhaTxWhs6NGrMQJAwyLivoIbnF8.",
+  "picture" : "https://gravatar.com/avatar/3c4f419e8cd958690d0d14b3b89380d3?s200&d=retro",
+  "__v" : 0
+},
+{
+  "_id" : "608894613cccfe7b286dd183",
+  "isSeller" : false,
+  "created" : "2021-04-27T22:46:57.526Z",
+  "name" : "Shruti Patel",
+  "email" : "shruti123@gmail.com",
+  "password" : "$2a$10$84yyV/2W2prskph6CojYDOui6fBVB1bf05qv0D98YKWi1sjatIoXG",
+  "picture" : "https://gravatar.com/avatar/b996889bce7052d4421bf91370517a14?s200&d=retro",
+  "__v" : 0,
+  "address" : {
+          "addr1" : "11700 walstreet",
+          "addr2" : "ffa",
+          "city" : "San Antonio",
+          "country" : "USA",
+          "postalCode" : "78230",
+          "state" : "Tx"
+  },
+  "isEmp" : false
+},
+{
+  "_id" : "608895043cccfe7b286dd187",
+  "isSeller" : false,
+  "created" : "2021-04-27T22:49:40.012Z",
+  "name" : "Test3",
+  "email" : "test3@gmail.com",
+  "password" : "$2a$10$Yfqc.HXzLabLqI0KEGs4/OIquy38n1WFq.2p51CBfJ/1J7QBBFMci",
+  "picture" : "https://gravatar.com/avatar/19f84906f4412abf6066aaa92fe9d6c1?s200&d=retro",
+  "__v" : 0
+},
+{
+  "_id" : "608975e488539f41d86d4749",
+  "isSeller" : false,
+  "created" : "2021-04-28T14:49:08.098Z",
+  "name" : "Kshah",
+  "email" : "kshah123@gmail.com",
+  "password" : "$2a$10$gsDT.OeF8PZI99EFSUHHhupBERW0WwDGy5qOhlzv3bi0q0eNU0Ie2",
+  "picture" : "https://gravatar.com/avatar/dd32bc44189240d824b41dc4dae8a559?s200&d=retro",
+  "__v" : 0,
+  "isEmp" : true
+},
+{
+  "_id" : "608981d088539f41d86d474a",
+  "isSeller" : false,
+  "created" : "2021-04-28T15:40:00.033Z",
+  "name" : "Jay123",
+  "email" : "jay000@yahoo.com",
+  "password" : "$2a$10$XnKdMdmsUCnqNld15.kRAue9cGjaLaVLLb8gA4GGiofRnYffN4gVG",
+  "picture" : "https://gravatar.com/avatar/7a92ca6e89b67138b3ab9a99d3933efb?s200&d=retro",
+  "__v" : 0
+},
+{
+  "_id" : "6089825188539f41d86d474b",
+  "isSeller" : false,
+  "created" : "2021-04-28T15:42:09.482Z",
+  "name" : "Test5",
+  "email" : "test5@gmail.com",
+  "password" : "$2a$10$pRlEMmHX1KbwQji.y/FsvO0pMZn0lgK6pcztoTQZeGhc1uWmxBHoy",
+  "picture" : "https://gravatar.com/avatar/065ce1ac58658682423ce60cd1c5d93b?s200&d=retro",
+  "__v" : 0
+},
+{
+  "_id" : "6089832e41140e48200b05e3",
+  "isSeller" : false,
+  "created" : "2021-04-28T15:45:50.354Z",
+  "name" : "xyz",
+  "email" : "xyxz@gmail.com",
+  "password" : "$2a$10$HoLSN85JVnt.kpflIa9bzO8Wf8nKsD/dDgVOqMpB1ZzpmJzgkwE9y",
+  "picture" : "https://gravatar.com/avatar/a7842a1b6521e4cdde3ce16d614d577c?s200&d=retro",
+  "__v" : 0
+},
+{
+  "_id" : "6089850041140e48200b05e4",
+  "isSeller" : false,
+  "created" : "2021-04-28T15:53:36.081Z",
+  "name" : "abc",
+  "email" : "abc@gmail.com",
+  "password" : "$2a$10$E2584Nhfd6ThMG8xNplmhemFWuusF8Y5ulGZMue7cWbuuYpvHxUH2",
+  "picture" : "https://gravatar.com/avatar/3f009d72559f51e7e454b16e5d0687a1?s200&d=retro",
+  "__v" : 0,
+  "address" : {
+          "addr1" : "66 abc st",
+          "addr2" : "ffa",
+          "city" : "edison",
+          "country" : "USA",
+          "postalCode" : "778888",
+          "state" : "nj"
+  },
+  "isEmp" : true
+}]
